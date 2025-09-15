@@ -16,7 +16,12 @@ The first step was completing the official [Quick Build Guide](https://docs.yoct
   <img width="1531" height="428" alt="Screenshot 2025-09-15 110801" src="https://github.com/user-attachments/assets/00e1f5d6-1fd4-4862-ac36-44580b5579c1" />
   <img width="1276" height="833" alt="Screenshot 2025-09-15 111230" src="https://github.com/user-attachments/assets/e040d8ed-7b2e-4d30-89b7-cb6d71ed9a69" />
   <img width="1396" height="289" alt="Screenshot 2025-09-15 111329" src="https://github.com/user-attachments/assets/9bff607a-6a17-4423-8808-528817333669" />
-  
 
-  
+## 🔮 Next Steps
+- Create a custom layer (`meta-myproject`).
+- Write a simple BitBake recipe.
+- Target hardware (Raspberry Pi).
+
+## 🤝 About Me
+I am a B.Tech (Electronics and Computer Engineering) student exploring Embedded Linux and The Yocto Project for custom Linux distributions.
 
