@@ -7,7 +7,7 @@ The first step was completing the official [Quick Build Guide](https://docs.yoct
 1. Cloned `poky` repository, branch `scarthgap`.
 2. Set up environment with `oe-init-build-env ../builds/QuickBuild/`.
 3. Ran `bitbake core-image-sato`.
-4. Booted the image in **QEMU**.
+4. Booted the image in **QEMU** with `runqemu qemux86-64`.
 
 ## 📂 Outputs
 - Successfully built **core-image-sato** (~few hours build).
@@ -18,10 +18,10 @@ The first step was completing the official [Quick Build Guide](https://docs.yoct
   <img width="1396" height="289" alt="Screenshot 2025-09-15 111329" src="https://github.com/user-attachments/assets/9bff607a-6a17-4423-8808-528817333669" />
 
 ## 🔮 Next Steps
-- Create a custom layer (`meta-myproject`).
-- Write a simple BitBake recipe.
+- Creating a custom layer (`meta-myproject`).
+- Writing a simple BitBake recipe.
 - Target hardware (Raspberry Pi).
 
 ## 🤝 About Me
-I am a B.Tech (Electronics and Computer Engineering) student exploring Embedded Linux and The Yocto Project for custom Linux distributions.
+I am a B.Tech (Electronics and Computer Engineering) student exploring Embedded Systems & Linux and The Yocto Project for custom Linux distributions.
 
